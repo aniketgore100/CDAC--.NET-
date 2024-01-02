@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refandvalue", "refandvalue.csproj", "{46CE86FD-9CFC-4A83-B87F-072257620952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "..\arrays\arrays.csproj", "{CEA479E2-0570-43CE-B9B5-D024A6C49934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayAssign", "..\arrayAssign\arrayAssign.csproj", "{EB2A3DF2-1872-49E3-AD04-AD98DAE96E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46CE86FD-9CFC-4A83-B87F-072257620952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CE86FD-9CFC-4A83-B87F-072257620952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CE86FD-9CFC-4A83-B87F-072257620952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CE86FD-9CFC-4A83-B87F-072257620952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA479E2-0570-43CE-B9B5-D024A6C49934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA479E2-0570-43CE-B9B5-D024A6C49934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA479E2-0570-43CE-B9B5-D024A6C49934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA479E2-0570-43CE-B9B5-D024A6C49934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2A3DF2-1872-49E3-AD04-AD98DAE96E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2A3DF2-1872-49E3-AD04-AD98DAE96E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2A3DF2-1872-49E3-AD04-AD98DAE96E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2A3DF2-1872-49E3-AD04-AD98DAE96E64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6351203E-E68B-4F0E-A8D2-A815C26CCD52}
+	EndGlobalSection
+EndGlobal

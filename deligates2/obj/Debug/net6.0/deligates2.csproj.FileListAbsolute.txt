@@ -1,0 +1,14 @@
+D:\.NET\deligates2\bin\Debug\net6.0\deligates2.exe
+D:\.NET\deligates2\bin\Debug\net6.0\deligates2.deps.json
+D:\.NET\deligates2\bin\Debug\net6.0\deligates2.runtimeconfig.json
+D:\.NET\deligates2\bin\Debug\net6.0\deligates2.dll
+D:\.NET\deligates2\bin\Debug\net6.0\deligates2.pdb
+D:\.NET\deligates2\obj\Debug\net6.0\deligates2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\deligates2\obj\Debug\net6.0\deligates2.AssemblyInfoInputs.cache
+D:\.NET\deligates2\obj\Debug\net6.0\deligates2.AssemblyInfo.cs
+D:\.NET\deligates2\obj\Debug\net6.0\deligates2.csproj.CoreCompileInputs.cache
+D:\.NET\deligates2\obj\Debug\net6.0\deligates2.dll
+D:\.NET\deligates2\obj\Debug\net6.0\refint\deligates2.dll
+D:\.NET\deligates2\obj\Debug\net6.0\deligates2.pdb
+D:\.NET\deligates2\obj\Debug\net6.0\deligates2.genruntimeconfig.cache
+D:\.NET\deligates2\obj\Debug\net6.0\ref\deligates2.dll

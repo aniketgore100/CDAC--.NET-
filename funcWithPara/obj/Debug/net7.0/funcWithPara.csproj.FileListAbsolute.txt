@@ -1,0 +1,14 @@
+D:\.NET\funcWithPara\bin\Debug\net7.0\funcWithPara.exe
+D:\.NET\funcWithPara\bin\Debug\net7.0\funcWithPara.deps.json
+D:\.NET\funcWithPara\bin\Debug\net7.0\funcWithPara.runtimeconfig.json
+D:\.NET\funcWithPara\bin\Debug\net7.0\funcWithPara.dll
+D:\.NET\funcWithPara\bin\Debug\net7.0\funcWithPara.pdb
+D:\.NET\funcWithPara\obj\Debug\net7.0\funcWithPara.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\funcWithPara\obj\Debug\net7.0\funcWithPara.AssemblyInfoInputs.cache
+D:\.NET\funcWithPara\obj\Debug\net7.0\funcWithPara.AssemblyInfo.cs
+D:\.NET\funcWithPara\obj\Debug\net7.0\funcWithPara.csproj.CoreCompileInputs.cache
+D:\.NET\funcWithPara\obj\Debug\net7.0\funcWithPara.dll
+D:\.NET\funcWithPara\obj\Debug\net7.0\refint\funcWithPara.dll
+D:\.NET\funcWithPara\obj\Debug\net7.0\funcWithPara.pdb
+D:\.NET\funcWithPara\obj\Debug\net7.0\funcWithPara.genruntimeconfig.cache
+D:\.NET\funcWithPara\obj\Debug\net7.0\ref\funcWithPara.dll

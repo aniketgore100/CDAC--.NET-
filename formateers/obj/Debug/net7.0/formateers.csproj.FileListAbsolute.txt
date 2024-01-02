@@ -1,0 +1,14 @@
+D:\.NET\formateers\bin\Debug\net7.0\formateers.exe
+D:\.NET\formateers\bin\Debug\net7.0\formateers.deps.json
+D:\.NET\formateers\bin\Debug\net7.0\formateers.runtimeconfig.json
+D:\.NET\formateers\bin\Debug\net7.0\formateers.dll
+D:\.NET\formateers\bin\Debug\net7.0\formateers.pdb
+D:\.NET\formateers\obj\Debug\net7.0\formateers.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\formateers\obj\Debug\net7.0\formateers.AssemblyInfoInputs.cache
+D:\.NET\formateers\obj\Debug\net7.0\formateers.AssemblyInfo.cs
+D:\.NET\formateers\obj\Debug\net7.0\formateers.csproj.CoreCompileInputs.cache
+D:\.NET\formateers\obj\Debug\net7.0\formateers.dll
+D:\.NET\formateers\obj\Debug\net7.0\refint\formateers.dll
+D:\.NET\formateers\obj\Debug\net7.0\formateers.pdb
+D:\.NET\formateers\obj\Debug\net7.0\formateers.genruntimeconfig.cache
+D:\.NET\formateers\obj\Debug\net7.0\ref\formateers.dll

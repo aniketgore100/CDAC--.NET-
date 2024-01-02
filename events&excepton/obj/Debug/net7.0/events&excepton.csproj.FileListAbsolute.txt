@@ -1,0 +1,14 @@
+D:\.NET\events&excepton\bin\Debug\net7.0\events&excepton.exe
+D:\.NET\events&excepton\bin\Debug\net7.0\events&excepton.deps.json
+D:\.NET\events&excepton\bin\Debug\net7.0\events&excepton.runtimeconfig.json
+D:\.NET\events&excepton\bin\Debug\net7.0\events&excepton.dll
+D:\.NET\events&excepton\bin\Debug\net7.0\events&excepton.pdb
+D:\.NET\events&excepton\obj\Debug\net7.0\events&excepton.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\events&excepton\obj\Debug\net7.0\events&excepton.AssemblyInfoInputs.cache
+D:\.NET\events&excepton\obj\Debug\net7.0\events&excepton.AssemblyInfo.cs
+D:\.NET\events&excepton\obj\Debug\net7.0\events&excepton.csproj.CoreCompileInputs.cache
+D:\.NET\events&excepton\obj\Debug\net7.0\events&excepton.dll
+D:\.NET\events&excepton\obj\Debug\net7.0\refint\events&excepton.dll
+D:\.NET\events&excepton\obj\Debug\net7.0\events&excepton.pdb
+D:\.NET\events&excepton\obj\Debug\net7.0\events&excepton.genruntimeconfig.cache
+D:\.NET\events&excepton\obj\Debug\net7.0\ref\events&excepton.dll

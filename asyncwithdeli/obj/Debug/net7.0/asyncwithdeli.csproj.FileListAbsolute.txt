@@ -1,0 +1,14 @@
+D:\.NET\asyncwithdeli\bin\Debug\net7.0\asyncwithdeli.exe
+D:\.NET\asyncwithdeli\bin\Debug\net7.0\asyncwithdeli.deps.json
+D:\.NET\asyncwithdeli\bin\Debug\net7.0\asyncwithdeli.runtimeconfig.json
+D:\.NET\asyncwithdeli\bin\Debug\net7.0\asyncwithdeli.dll
+D:\.NET\asyncwithdeli\bin\Debug\net7.0\asyncwithdeli.pdb
+D:\.NET\asyncwithdeli\obj\Debug\net7.0\asyncwithdeli.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\asyncwithdeli\obj\Debug\net7.0\asyncwithdeli.AssemblyInfoInputs.cache
+D:\.NET\asyncwithdeli\obj\Debug\net7.0\asyncwithdeli.AssemblyInfo.cs
+D:\.NET\asyncwithdeli\obj\Debug\net7.0\asyncwithdeli.csproj.CoreCompileInputs.cache
+D:\.NET\asyncwithdeli\obj\Debug\net7.0\asyncwithdeli.dll
+D:\.NET\asyncwithdeli\obj\Debug\net7.0\refint\asyncwithdeli.dll
+D:\.NET\asyncwithdeli\obj\Debug\net7.0\asyncwithdeli.pdb
+D:\.NET\asyncwithdeli\obj\Debug\net7.0\asyncwithdeli.genruntimeconfig.cache
+D:\.NET\asyncwithdeli\obj\Debug\net7.0\ref\asyncwithdeli.dll

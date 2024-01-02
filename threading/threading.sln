@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "threading", "threading.csproj", "{4313BAB2-BDAF-4CDC-995E-3A9881656ECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funcWithPara", "..\funcWithPara\funcWithPara.csproj", "{9BBEAC68-A50A-4933-91CE-1DC314788BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPool", "..\ThreadPool\ThreadPool.csproj", "{EA83DB25-A0C1-4130-92BA-444C5DF43E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4313BAB2-BDAF-4CDC-995E-3A9881656ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4313BAB2-BDAF-4CDC-995E-3A9881656ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4313BAB2-BDAF-4CDC-995E-3A9881656ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4313BAB2-BDAF-4CDC-995E-3A9881656ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BBEAC68-A50A-4933-91CE-1DC314788BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBEAC68-A50A-4933-91CE-1DC314788BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBEAC68-A50A-4933-91CE-1DC314788BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBEAC68-A50A-4933-91CE-1DC314788BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA83DB25-A0C1-4130-92BA-444C5DF43E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA83DB25-A0C1-4130-92BA-444C5DF43E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA83DB25-A0C1-4130-92BA-444C5DF43E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA83DB25-A0C1-4130-92BA-444C5DF43E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA2FED9-4750-4D80-B3D1-11268966BE68}
+	EndGlobalSection
+EndGlobal

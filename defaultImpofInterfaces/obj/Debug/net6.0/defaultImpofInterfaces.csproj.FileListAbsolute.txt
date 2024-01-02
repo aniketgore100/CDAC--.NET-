@@ -1,0 +1,14 @@
+D:\.NET\defaultImpofInterfaces\bin\Debug\net6.0\defaultImpofInterfaces.exe
+D:\.NET\defaultImpofInterfaces\bin\Debug\net6.0\defaultImpofInterfaces.deps.json
+D:\.NET\defaultImpofInterfaces\bin\Debug\net6.0\defaultImpofInterfaces.runtimeconfig.json
+D:\.NET\defaultImpofInterfaces\bin\Debug\net6.0\defaultImpofInterfaces.dll
+D:\.NET\defaultImpofInterfaces\bin\Debug\net6.0\defaultImpofInterfaces.pdb
+D:\.NET\defaultImpofInterfaces\obj\Debug\net6.0\defaultImpofInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\defaultImpofInterfaces\obj\Debug\net6.0\defaultImpofInterfaces.AssemblyInfoInputs.cache
+D:\.NET\defaultImpofInterfaces\obj\Debug\net6.0\defaultImpofInterfaces.AssemblyInfo.cs
+D:\.NET\defaultImpofInterfaces\obj\Debug\net6.0\defaultImpofInterfaces.csproj.CoreCompileInputs.cache
+D:\.NET\defaultImpofInterfaces\obj\Debug\net6.0\defaultImpofInterfaces.dll
+D:\.NET\defaultImpofInterfaces\obj\Debug\net6.0\refint\defaultImpofInterfaces.dll
+D:\.NET\defaultImpofInterfaces\obj\Debug\net6.0\defaultImpofInterfaces.pdb
+D:\.NET\defaultImpofInterfaces\obj\Debug\net6.0\defaultImpofInterfaces.genruntimeconfig.cache
+D:\.NET\defaultImpofInterfaces\obj\Debug\net6.0\ref\defaultImpofInterfaces.dll

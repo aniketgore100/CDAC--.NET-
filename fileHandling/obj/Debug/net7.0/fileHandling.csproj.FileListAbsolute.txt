@@ -1,0 +1,14 @@
+D:\.NET\fileHandling\bin\Debug\net7.0\fileHandling.exe
+D:\.NET\fileHandling\bin\Debug\net7.0\fileHandling.deps.json
+D:\.NET\fileHandling\bin\Debug\net7.0\fileHandling.runtimeconfig.json
+D:\.NET\fileHandling\bin\Debug\net7.0\fileHandling.dll
+D:\.NET\fileHandling\bin\Debug\net7.0\fileHandling.pdb
+D:\.NET\fileHandling\obj\Debug\net7.0\fileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\fileHandling\obj\Debug\net7.0\fileHandling.AssemblyInfoInputs.cache
+D:\.NET\fileHandling\obj\Debug\net7.0\fileHandling.AssemblyInfo.cs
+D:\.NET\fileHandling\obj\Debug\net7.0\fileHandling.csproj.CoreCompileInputs.cache
+D:\.NET\fileHandling\obj\Debug\net7.0\fileHandling.dll
+D:\.NET\fileHandling\obj\Debug\net7.0\refint\fileHandling.dll
+D:\.NET\fileHandling\obj\Debug\net7.0\fileHandling.pdb
+D:\.NET\fileHandling\obj\Debug\net7.0\fileHandling.genruntimeconfig.cache
+D:\.NET\fileHandling\obj\Debug\net7.0\ref\fileHandling.dll

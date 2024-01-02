@@ -1,0 +1,14 @@
+D:\.NET\static members\bin\Debug\net6.0\static members.exe
+D:\.NET\static members\bin\Debug\net6.0\static members.deps.json
+D:\.NET\static members\bin\Debug\net6.0\static members.runtimeconfig.json
+D:\.NET\static members\bin\Debug\net6.0\static members.dll
+D:\.NET\static members\bin\Debug\net6.0\static members.pdb
+D:\.NET\static members\obj\Debug\net6.0\static members.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\static members\obj\Debug\net6.0\static members.AssemblyInfoInputs.cache
+D:\.NET\static members\obj\Debug\net6.0\static members.AssemblyInfo.cs
+D:\.NET\static members\obj\Debug\net6.0\static members.csproj.CoreCompileInputs.cache
+D:\.NET\static members\obj\Debug\net6.0\static members.dll
+D:\.NET\static members\obj\Debug\net6.0\refint\static members.dll
+D:\.NET\static members\obj\Debug\net6.0\static members.pdb
+D:\.NET\static members\obj\Debug\net6.0\static members.genruntimeconfig.cache
+D:\.NET\static members\obj\Debug\net6.0\ref\static members.dll

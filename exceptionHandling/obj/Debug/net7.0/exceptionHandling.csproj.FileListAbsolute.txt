@@ -1,0 +1,14 @@
+D:\.NET\exceptionHandling\bin\Debug\net7.0\exceptionHandling.exe
+D:\.NET\exceptionHandling\bin\Debug\net7.0\exceptionHandling.deps.json
+D:\.NET\exceptionHandling\bin\Debug\net7.0\exceptionHandling.runtimeconfig.json
+D:\.NET\exceptionHandling\bin\Debug\net7.0\exceptionHandling.dll
+D:\.NET\exceptionHandling\bin\Debug\net7.0\exceptionHandling.pdb
+D:\.NET\exceptionHandling\obj\Debug\net7.0\exceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\exceptionHandling\obj\Debug\net7.0\exceptionHandling.AssemblyInfoInputs.cache
+D:\.NET\exceptionHandling\obj\Debug\net7.0\exceptionHandling.AssemblyInfo.cs
+D:\.NET\exceptionHandling\obj\Debug\net7.0\exceptionHandling.csproj.CoreCompileInputs.cache
+D:\.NET\exceptionHandling\obj\Debug\net7.0\exceptionHandling.dll
+D:\.NET\exceptionHandling\obj\Debug\net7.0\refint\exceptionHandling.dll
+D:\.NET\exceptionHandling\obj\Debug\net7.0\exceptionHandling.pdb
+D:\.NET\exceptionHandling\obj\Debug\net7.0\exceptionHandling.genruntimeconfig.cache
+D:\.NET\exceptionHandling\obj\Debug\net7.0\ref\exceptionHandling.dll

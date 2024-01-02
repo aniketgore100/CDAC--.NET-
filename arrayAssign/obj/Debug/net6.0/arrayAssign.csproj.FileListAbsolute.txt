@@ -1,0 +1,14 @@
+D:\.NET\arrayAssign\bin\Debug\net6.0\arrayAssign.exe
+D:\.NET\arrayAssign\bin\Debug\net6.0\arrayAssign.deps.json
+D:\.NET\arrayAssign\bin\Debug\net6.0\arrayAssign.runtimeconfig.json
+D:\.NET\arrayAssign\bin\Debug\net6.0\arrayAssign.dll
+D:\.NET\arrayAssign\bin\Debug\net6.0\arrayAssign.pdb
+D:\.NET\arrayAssign\obj\Debug\net6.0\arrayAssign.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\arrayAssign\obj\Debug\net6.0\arrayAssign.AssemblyInfoInputs.cache
+D:\.NET\arrayAssign\obj\Debug\net6.0\arrayAssign.AssemblyInfo.cs
+D:\.NET\arrayAssign\obj\Debug\net6.0\arrayAssign.csproj.CoreCompileInputs.cache
+D:\.NET\arrayAssign\obj\Debug\net6.0\arrayAssign.dll
+D:\.NET\arrayAssign\obj\Debug\net6.0\refint\arrayAssign.dll
+D:\.NET\arrayAssign\obj\Debug\net6.0\arrayAssign.pdb
+D:\.NET\arrayAssign\obj\Debug\net6.0\arrayAssign.genruntimeconfig.cache
+D:\.NET\arrayAssign\obj\Debug\net6.0\ref\arrayAssign.dll

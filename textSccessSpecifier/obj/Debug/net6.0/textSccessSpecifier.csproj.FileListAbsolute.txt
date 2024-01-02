@@ -1,0 +1,11 @@
+D:\.NET\textSccessSpecifier\bin\Debug\net6.0\textSccessSpecifier.deps.json
+D:\.NET\textSccessSpecifier\bin\Debug\net6.0\textSccessSpecifier.dll
+D:\.NET\textSccessSpecifier\bin\Debug\net6.0\textSccessSpecifier.pdb
+D:\.NET\textSccessSpecifier\obj\Debug\net6.0\textSccessSpecifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\textSccessSpecifier\obj\Debug\net6.0\textSccessSpecifier.AssemblyInfoInputs.cache
+D:\.NET\textSccessSpecifier\obj\Debug\net6.0\textSccessSpecifier.AssemblyInfo.cs
+D:\.NET\textSccessSpecifier\obj\Debug\net6.0\textSccessSpecifier.csproj.CoreCompileInputs.cache
+D:\.NET\textSccessSpecifier\obj\Debug\net6.0\textSccessSpecifier.dll
+D:\.NET\textSccessSpecifier\obj\Debug\net6.0\refint\textSccessSpecifier.dll
+D:\.NET\textSccessSpecifier\obj\Debug\net6.0\textSccessSpecifier.pdb
+D:\.NET\textSccessSpecifier\obj\Debug\net6.0\ref\textSccessSpecifier.dll

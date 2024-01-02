@@ -1,0 +1,14 @@
+D:\.NET\refandvalue\obj\Debug\net6.0\refandvalue.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\refandvalue\obj\Debug\net6.0\refandvalue.AssemblyInfoInputs.cache
+D:\.NET\refandvalue\obj\Debug\net6.0\refandvalue.AssemblyInfo.cs
+D:\.NET\refandvalue\obj\Debug\net6.0\refandvalue.csproj.CoreCompileInputs.cache
+D:\.NET\refandvalue\bin\Debug\net6.0\refandvalue.exe
+D:\.NET\refandvalue\bin\Debug\net6.0\refandvalue.deps.json
+D:\.NET\refandvalue\bin\Debug\net6.0\refandvalue.runtimeconfig.json
+D:\.NET\refandvalue\bin\Debug\net6.0\refandvalue.dll
+D:\.NET\refandvalue\bin\Debug\net6.0\refandvalue.pdb
+D:\.NET\refandvalue\obj\Debug\net6.0\refandvalue.dll
+D:\.NET\refandvalue\obj\Debug\net6.0\refint\refandvalue.dll
+D:\.NET\refandvalue\obj\Debug\net6.0\refandvalue.pdb
+D:\.NET\refandvalue\obj\Debug\net6.0\refandvalue.genruntimeconfig.cache
+D:\.NET\refandvalue\obj\Debug\net6.0\ref\refandvalue.dll

@@ -1,0 +1,14 @@
+D:\.NET\genericExamples\bin\Debug\net6.0\genericExamples.exe
+D:\.NET\genericExamples\bin\Debug\net6.0\genericExamples.deps.json
+D:\.NET\genericExamples\bin\Debug\net6.0\genericExamples.runtimeconfig.json
+D:\.NET\genericExamples\bin\Debug\net6.0\genericExamples.dll
+D:\.NET\genericExamples\bin\Debug\net6.0\genericExamples.pdb
+D:\.NET\genericExamples\obj\Debug\net6.0\genericExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\genericExamples\obj\Debug\net6.0\genericExamples.AssemblyInfoInputs.cache
+D:\.NET\genericExamples\obj\Debug\net6.0\genericExamples.AssemblyInfo.cs
+D:\.NET\genericExamples\obj\Debug\net6.0\genericExamples.csproj.CoreCompileInputs.cache
+D:\.NET\genericExamples\obj\Debug\net6.0\genericExamples.dll
+D:\.NET\genericExamples\obj\Debug\net6.0\refint\genericExamples.dll
+D:\.NET\genericExamples\obj\Debug\net6.0\genericExamples.pdb
+D:\.NET\genericExamples\obj\Debug\net6.0\genericExamples.genruntimeconfig.cache
+D:\.NET\genericExamples\obj\Debug\net6.0\ref\genericExamples.dll
